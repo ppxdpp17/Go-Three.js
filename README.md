@@ -84,7 +84,7 @@ Then navigate to `http://localhost:8000` in your web browser.
 ---
 
 ## 👥 Authors
-* **António Trancoso** - [GitHub](https://github.com/)
+* **António Trancoso** - [GitHub](https://github.com/antoniotrancoso01)
 * **Pedro Duarte** - [GitHub](https://github.com/ppxdpp17)
 
 Developed as part of the BSc in Informatics Engineering (Computer Graphics) at **Universidade de Trás-os-Montes e Alto Douro** (2023/2024).
